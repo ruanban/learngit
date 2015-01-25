@@ -1,3 +1,2 @@
-这是一个测试文档！
-我修改了这个文件
-haha
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
